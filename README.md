@@ -13,7 +13,7 @@
   <h3 align="center">PunchBOX Logs</h3>
 
   <p align="center">
-    PunchBOX is a NodeJS Discord Bot that automates and logs data from Clock Ins and Clock Outs
+    PunchBOX is a NodeJS Discord Bot that automates and stores logs data from Clock Ins and Clock Outs
   </p>
 </p>
 
