@@ -28,7 +28,7 @@ You can view additional commands and features using the command ``help``
 
 <!-- CONTACT -->
 ## Contact
-Please contact me via email at alexandru.c@qpg.ro <br>
+Please contact me via email at alexandru@wubi.co <br>
 Or send me a message via Twitter at [@amcos_](https://twitter.com/amcos_)
 
 
@@ -39,4 +39,4 @@ Or send me a message via Twitter at [@amcos_](https://twitter.com/amcos_)
 [discord-shield]: https://img.shields.io/discord/287260416416022529?label=DISCORD&style=for-the-badge
 [discord-url]: https://discord.com/invite/wubi
 [website-shield]: https://img.shields.io/badge/WEBSITE-grey?style=for-the-badge
-[website-url]: https://pigu.ro/
+[website-url]: https://wubi.co/
